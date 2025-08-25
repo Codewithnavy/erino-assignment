@@ -1,16 +1,15 @@
-Here’s a polished, interactive `README.md` for your **LeadManager** project. I’ve added UML diagrams (class & flow), badges, and structured sections so it looks professional and GitHub-ready:
 
 ```markdown
-# LeadManager 🚀
+# LeadManager 
 
 ![LeadManager](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-blue)
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248)
 
-LeadManager is a **professional lead management portal** with a modern **React frontend** and a **Node.js/Express backend**. It provides secure authentication, full CRUD for leads, real-time dashboards, and advanced filtering with **AG Grid**.
+LeadManager is a professional lead management portal with a modern React frontend and a Node.js/Express backend. It provides secure authentication, full CRUD for leads, real-time dashboards, and advanced filtering with AG Grid.
 
-This repository contains both **frontend** and **backend**, enabling a full-stack development experience.
+This repository contains both frontend and backend, enabling a full-stack development experience.
 
 ---
 
@@ -35,7 +34,7 @@ This repository contains both **frontend** and **backend**, enabling a full-stac
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 | Frontend | Backend |
 |----------|---------|
@@ -82,9 +81,9 @@ server/
 
 ---
 
-## ⚡ UML Diagrams
+##  UML Diagrams
 
-### 1️⃣ Class Diagram (Backend Models)
+### 1️Class Diagram (Backend Models)
 
 ```mermaid
 classDiagram
@@ -114,7 +113,7 @@ classDiagram
     User "1" -- "many" Lead : manages
 ````
 
-### 2️⃣ API Flow Diagram
+### API Flow Diagram
 
 ```mermaid
 graph TD
@@ -127,7 +126,7 @@ graph TD
 
 ---
 
-## ⚡ Setup & Run
+##  Setup & Run
 
 ### Prerequisites
 
@@ -164,7 +163,7 @@ npm run dev
 
 ---
 
-## 🔑 Key API Endpoints
+##  Key API Endpoints
 
 ### Auth
 
@@ -183,7 +182,7 @@ npm run dev
 
 ---
 
-## 🏗 Development Scripts
+## Development Scripts
 
 ### Frontend
 
@@ -199,7 +198,7 @@ npm run dev
 
 ---
 
-## 📝 Commit Guidelines
+##  Commit Guidelines
 
 * `chore:` initial setup
 * `feat(auth):` add authentication
@@ -212,7 +211,7 @@ npm run dev
 
 ---
 
-## 🎯 Contributing
+##  Contributing
 
 * Follow existing code style
 * Add proper error handling & loading states
@@ -221,15 +220,9 @@ npm run dev
 
 ---
 
-## 📜 License
+## License
 
 This project is part of the **LeadManager assignment** for educational purposes.
 
 ```
 
----
-
-If you want, I can **also create a separate `README.md` for the backend** that mirrors this style and includes an **interactive Postman collection link + database schema diagrams**. This makes the repo look fully professional and “portfolio-ready.”  
-
-Do you want me to do that next?
-```
