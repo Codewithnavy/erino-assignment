@@ -224,5 +224,3 @@ npm run dev
 
 This project is part of the **LeadManager assignment** for educational purposes.
 
-```
-
